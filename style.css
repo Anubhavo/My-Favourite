@@ -126,3 +126,8 @@ a:hover{
     color: deeppink;
     font-family: fantasy;
 }
+#contact{
+    background-image: linear-gradient(#f2d59f,lavender);
+    text-align: center;
+}
+
